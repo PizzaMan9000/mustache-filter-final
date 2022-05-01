@@ -1,0 +1,18 @@
+#title {
+    color:white;
+    background-color: #ba890d;
+    padding: 5px;
+    border-radius: 20px;
+    border: 5px solid #e0b33f;
+}
+
+canvas {
+    border: black dashed 5px;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+button {
+    width: 150px;
+}
